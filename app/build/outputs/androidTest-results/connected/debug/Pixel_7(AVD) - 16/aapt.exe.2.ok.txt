@@ -1,0 +1,29 @@
+EXECUTING: D:\AndroidSdk\build-tools\35.0.0\aapt.exe dump badging D:\Project_Android\2_2_HW\sample\app\build\intermediates\apk\androidTest\debug\app-debug-androidTest.apk
+CURRENT_WORKING_DIRECTORY: D:\Project_Android\2_2_HW\sample
+START_TIME: 2025-09-26 19:45:29.202
+START_TIME-NANOS: 2025-09-26 19:45:29.202501800
+ENVIRONMENT:
+
+*****************************************
+STDOUT/STDERR BELOW
+===================
+package: name='ru.netology.testing.uiautomator.test' versionCode='' versionName='' platformBuildVersionName='14' platformBuildVersionCode='34' compileSdkVersion='34' compileSdkVersionCodename='14'
+sdkVersion:'21'
+targetSdkVersion:'34'
+uses-permission: name='android.permission.REORDER_TASKS'
+application: label='' icon=''
+application-debuggable
+uses-library:'android.test.runner'
+feature-group: label=''
+  uses-feature: name='android.hardware.faketouch'
+  uses-implied-feature: name='android.hardware.faketouch' reason='default feature for all apps'
+other-activities
+supports-screens: 'small' 'normal' 'large' 'xlarge'
+supports-any-density: 'true'
+locales: '--_--'
+densities: '160'
+===================
+END_TIME: 2025-09-26 19:45:29.276
+END_TIME-NANOS: 2025-09-26 19:45:29.276344300
+DURATION: 73ms
+EXIT CODE: 0

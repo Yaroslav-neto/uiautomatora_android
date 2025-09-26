@@ -1,0 +1,47 @@
+INFO: Constructing runner from config.
+INFO: Configuring Android Instrumentation driver: android_instrumentation_runtime {
+  instrumentation_info {
+    app_package: "ru.netology.testing.uiautomator"
+    test_package: "ru.netology.testing.uiautomator.test"
+    test_runner_class: "androidx.test.runner.AndroidJUnitRunner"
+  }
+  instrumentation_args {
+    args_map {
+      key: "additionalTestOutputDir"
+      value: "/sdcard/Android/media/ru.netology.testing.uiautomator/additional_test_output"
+    }
+    args_map {
+      key: "class"
+      value: "ru.netology.testing.uiautomator.ChangeTextTest"
+    }
+  }
+}
+am_instrument_timeout: 31536000
+
+INFO: Configuring AndroidTestApkInstallerPlugin: apks_to_install {
+  apk_paths: "D:\\Project_Android\\2_2_HW\\sample\\app\\build\\intermediates\\apk\\debug\\app-debug.apk"
+  install_options {
+  }
+  uninstall_after_test: true
+}
+apks_to_install {
+  apk_paths: "D:\\Project_Android\\2_2_HW\\sample\\app\\build\\intermediates\\apk\\androidTest\\debug\\app-debug-androidTest.apk"
+  install_options {
+  }
+  uninstall_after_test: true
+}
+instrumentation_target_package_id: "ru.netology.testing.uiautomator"
+
+INFO: No installables found in test fixture. Nothing to install.
+INFO: Installing [D:\Project_Android\2_2_HW\sample\app\build\intermediates\apk\debug\app-debug.apk] on device emulator-5554.
+INFO: Installing [D:\Project_Android\2_2_HW\sample\app\build\intermediates\apk\androidTest\debug\app-debug-androidTest.apk] on device emulator-5554.
+INFO: Start logcat streaming.
+INFO: Running Android Instrumentation driver.
+INFO: Copying files from device to host: /sdcard/Android/media/ru.netology.testing.uiautomator/additional_test_output to D:\Project_Android\2_2_HW\sample\app\build\outputs\connected_android_test_additional_output\debugAndroidTest\connected\Pixel_7(AVD) - 16
+INFO: Stop logcat streaming.
+INFO: Uninstalling ru.netology.testing.uiautomator for device emulator-5554.
+INFO: Uninstalling ru.netology.testing.uiautomator.test for device emulator-5554.
+INFO: Execute ru.netology.testing.uiautomator.ChangeTextTest.testInternetSettings: PASSED
+INFO: Execute ru.netology.testing.uiautomator.ChangeTextTest.testEmptyTextExactEmpty: PASSED
+INFO: Execute ru.netology.testing.uiautomator.ChangeTextTest.testNoEmptyTextExactActivity: PASSED
+INFO: Execute ru.netology.testing.uiautomator.ChangeTextTest.testChangeText: PASSED

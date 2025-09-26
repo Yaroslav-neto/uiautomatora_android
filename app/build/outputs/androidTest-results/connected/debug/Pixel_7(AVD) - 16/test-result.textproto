@@ -1,0 +1,245 @@
+# proto-message: google.testing.platform.proto.api.core.TestSuiteResult
+# 2025-09-26T12:45:31.313477300Z:
+test_suite_meta_data {
+  scheduled_test_case_count: 4
+  device {
+    id: "emulator-5554"
+    friendly_name: "primary"
+  }
+}
+test_status: PASSED
+test_result {
+  test_case {
+    test_class: "ChangeTextTest"
+    test_package: "ru.netology.testing.uiautomator"
+    test_method: "testInternetSettings"
+    start_time {
+      seconds: 1758890649
+      nanos: 234000000
+    }
+    end_time {
+      seconds: 1758890676
+      nanos: 801000000
+    }
+    device {
+      id: "emulator-5554"
+      friendly_name: "primary"
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Project_Android\\2_2_HW\\sample\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_7(AVD) - 16\\logcat-ru.netology.testing.uiautomator.ChangeTextTest-testInternetSettings.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Project_Android\\2_2_HW\\sample\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_7(AVD) - 16\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Project_Android\\2_2_HW\\sample\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_7(AVD) - 16\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Project_Android\\2_2_HW\\sample\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_7(AVD) - 16\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "ChangeTextTest"
+    test_package: "ru.netology.testing.uiautomator"
+    test_method: "testEmptyTextExactEmpty"
+    start_time {
+      seconds: 1758890676
+      nanos: 827000000
+    }
+    end_time {
+      seconds: 1758890692
+      nanos: 221000000
+    }
+    device {
+      id: "emulator-5554"
+      friendly_name: "primary"
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Project_Android\\2_2_HW\\sample\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_7(AVD) - 16\\logcat-ru.netology.testing.uiautomator.ChangeTextTest-testEmptyTextExactEmpty.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Project_Android\\2_2_HW\\sample\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_7(AVD) - 16\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Project_Android\\2_2_HW\\sample\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_7(AVD) - 16\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Project_Android\\2_2_HW\\sample\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_7(AVD) - 16\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "ChangeTextTest"
+    test_package: "ru.netology.testing.uiautomator"
+    test_method: "testNoEmptyTextExactActivity"
+    start_time {
+      seconds: 1758890694
+      nanos: 388000000
+    }
+    end_time {
+      seconds: 1758890710
+      nanos: 58000000
+    }
+    device {
+      id: "emulator-5554"
+      friendly_name: "primary"
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Project_Android\\2_2_HW\\sample\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_7(AVD) - 16\\logcat-ru.netology.testing.uiautomator.ChangeTextTest-testNoEmptyTextExactActivity.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Project_Android\\2_2_HW\\sample\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_7(AVD) - 16\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Project_Android\\2_2_HW\\sample\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_7(AVD) - 16\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Project_Android\\2_2_HW\\sample\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_7(AVD) - 16\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "ChangeTextTest"
+    test_package: "ru.netology.testing.uiautomator"
+    test_method: "testChangeText"
+    start_time {
+      seconds: 1758890712
+      nanos: 139000000
+    }
+    end_time {
+      seconds: 1758890724
+      nanos: 219000000
+    }
+    device {
+      id: "emulator-5554"
+      friendly_name: "primary"
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Project_Android\\2_2_HW\\sample\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_7(AVD) - 16\\logcat-ru.netology.testing.uiautomator.ChangeTextTest-testChangeText.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Project_Android\\2_2_HW\\sample\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_7(AVD) - 16\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Project_Android\\2_2_HW\\sample\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_7(AVD) - 16\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Project_Android\\2_2_HW\\sample\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_7(AVD) - 16\\cpuinfo"
+    }
+  }
+}
+output_artifact {
+  label {
+    label: "test-results.log"
+    namespace: "com.google.testing.platform.runtime.android.driver.AndroidInstrumentationDriver"
+  }
+  source_path {
+    path: "D:\\Project_Android\\2_2_HW\\sample\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_7(AVD) - 16\\testlog\\test-results.log"
+  }
+  type: TEST_DATA
+  mime_type: "text/plain"
+}

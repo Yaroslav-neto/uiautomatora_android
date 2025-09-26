@@ -1,0 +1,297 @@
+09-26 12:44:35.865 17638 17703 I TestRunner: started: testEmptyTextExactEmpty(ru.netology.testing.uiautomator.ChangeTextTest)
+09-26 12:44:36.358 17638 17703 D UiDevice: Pressing home button.
+09-26 12:44:36.370  5816  5827 I HWUI    : Davey! duration=894ms; Flags=0, FrameTimelineVsyncId=249884, IntendedVsync=15683120854148, Vsync=15683520854132, InputEventId=0, HandleInputStart=15683546106400, AnimationStart=15683546132600, PerformTraversalsStart=15683546412500, DrawStart=15683546574600, FrameDeadline=15683870854118, FrameStartTime=15683526840900, FrameInterval=16666666, WorkloadTarget=16666666, SyncQueued=15683547006600, SyncStart=15683826346700, IssueDrawCommandsStart=15683826866800, SwapBuffers=15683840823300, FrameCompleted=15684294325800, DequeueBufferDuration=366035000, QueueBufferDuration=283400, GpuCompleted=15684292874900, SwapBuffersCompleted=15684294325800, DisplayPresentTime=0, CommandSubmissionCompleted=15683840823300,
+09-26 12:44:36.687  7274  7274 I Choreographer: Skipped 55 frames!  The application may be doing too much work on its main thread.
+09-26 12:44:36.717   857   880 I ActivityTaskManager: Displayed com.google.android.gms/.googlesettings.ui.GoogleSettingsActivity for user 0: +1s974ms
+09-26 12:44:36.785  8671  8671 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.feedback.internal.IFeedbackService dat=chimera-action:/... xflg=0x4 cmp=com.google.android.gms/.chimera.GmsBoundBrokerService }
+09-26 12:44:36.785  8671  8671 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.feedback.internal.IFeedbackService dat=chimera-action:/... xflg=0x4 cmp=com.google.android.gms/.chimera.GmsBoundBrokerService }
+09-26 12:44:36.864  4711  4711 W AiAiVC  : Unexpected capture event type: 11
+09-26 12:44:36.939  7274  7364 W MenuSettingsDataSource: Unable to create "System Services Updates" item: the utility class returns null Intent. [CONTEXT service_id=349 ]
+09-26 12:44:36.957  7274  8129 I HWUI    : Davey! duration=930ms; Flags=1, FrameTimelineVsyncId=249950, IntendedVsync=15683704187458, Vsync=15683937520782, InputEventId=0, HandleInputStart=15683953111900, AnimationStart=15683953161500, PerformTraversalsStart=15683953195600, DrawStart=15684292770800, FrameDeadline=15683720854124, FrameStartTime=15683952832200, FrameInterval=16666666, WorkloadTarget=16666666, SyncQueued=15684294427400, SyncStart=15684717260600, IssueDrawCommandsStart=15684718083500, SwapBuffers=15684759152000, FrameCompleted=15685057877300, DequeueBufferDuration=35400, QueueBufferDuration=3221400, GpuCompleted=15685057877300, SwapBuffersCompleted=15684886211400, DisplayPresentTime=0, CommandSubmissionCompleted=15684759152000,
+09-26 12:44:36.958  5816  6693 I HWUI    : Davey! duration=965ms; Flags=0, FrameTimelineVsyncId=249972, IntendedVsync=15683854187452, Vsync=15684287520768, InputEventId=0, HandleInputStart=15684305317300, AnimationStart=15684305342400, PerformTraversalsStart=15684311202800, DrawStart=15684311340600, FrameDeadline=15684637520754, FrameStartTime=15684299259700, FrameInterval=16666666, WorkloadTarget=16666666, SyncQueued=15684343159900, SyncStart=15684582071500, IssueDrawCommandsStart=15684582908400, SwapBuffers=15684718483400, FrameCompleted=15685058228600, DequeueBufferDuration=171220800, QueueBufferDuration=5613500, GpuCompleted=15684886810200, SwapBuffersCompleted=15685058228600, DisplayPresentTime=0, CommandSubmissionCompleted=15684718483400,
+09-26 12:44:37.166   641 17757 W android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+09-26 12:44:37.166   641 17757 E android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+09-26 12:44:37.576   857   884 I Choreographer: Skipped 53 frames!  The application may be doing too much work on its main thread.
+09-26 12:44:37.591  5816  5816 D VRI[Settings]: visibilityChanged oldVisibility=true newVisibility=false
+09-26 12:44:37.865  5816  5816 D DashboardFragment: unregister observer: @68fcbbb, uri: content://com.google.android.gms.settings.persistent/getGoogleSettingsTitle
+09-26 12:44:37.865  5816  5816 D DashboardFragment: unregister observer: @8eee8d8, uri: content://com.google.android.gms.settings.persistent/getGoogleSettingsSummary
+09-26 12:44:37.866  5816  5816 D DashboardFragment: unregister observer: @75ab04a, uri: content://com.google.android.apps.wellbeing.api/digitalWellbeingSummary
+09-26 12:44:37.971   857   881 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@bb5bfcff does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+09-26 12:44:37.995  4192  4192 D ViewRootImpl: Skipping stats log for color mode
+09-26 12:44:37.998  4192  4192 D TFOManager: playPanelCloseAnimation() duration=200 traceTag=LauncherOverlay-hide isHomeButtonTap=true
+09-26 12:44:37.998  4192  4192 D TFOManager: Skipped creating panel close animation because -1 is invisible.
+09-26 12:44:37.998  4192  4192 D OverviewCommandHelper: clearing pending commands: []
+09-26 12:44:38.003  4192  4192 D StatsLog: LAUNCHER_ONRESUME
+09-26 12:44:38.011  1410  1410 I vol.VolumeDialogImpl: mDialog.dismiss() reason: volume_controller from: com.android.systemui.volume.VolumeDialogImpl$7.onDismissRequested:3
+09-26 12:44:38.022  4192  4192 D NexusLauncherModelDelegate: notifySmartspaceEvent: SmartspaceTargetEvent{mSmartspaceTarget=null, mSmartspaceActionId='null', mEventType=6}
+09-26 12:44:38.048  4192  4192 D BaseDepthController: setSurface:
+09-26 12:44:38.048  4192  4192 D BaseDepthController: 	mWaitingOnSurfaceValidity: false
+09-26 12:44:38.048  4192  4192 D BaseDepthController: 	mBaseSurface: Surface(name=com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity)/@0x7118981
+09-26 12:44:38.103   706   706 I BpBinder: onLastStrongRef automatically unlinking death recipients:
+09-26 12:44:38.190  4192  4295 D QuickstepModelDelegate: notifyAppTargetEvent action=1 launchLocation=workspace/0/[-1,-1]/[1,1]
+09-26 12:44:38.310   641 17757 W android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+09-26 12:44:38.310   641 17757 E android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+09-26 12:44:38.337   641  7136 D android.hardware.audio@7.1-impl.ranchu: threadLoop: entering standby, frames: 9024960
+09-26 12:44:38.338   641  7136 D android.hardware.audio@7.1-impl.ranchu: ~TinyalsaSink: joining consumeThread
+09-26 12:44:38.364  4711  4782 I AiAiEcho: Predicting[0]:  [CONTEXT sampling_count=5 ]
+09-26 12:44:38.364  4711  4782 I AiAiEcho: EchoTargets:
+09-26 12:44:38.364  4711  4782 I AiAiEcho: Filtered by AiAi flag check:
+09-26 12:44:38.364  4711  4782 I AiAiEcho: [CONTEXT ratelimit_period="10 SECONDS" ]
+09-26 12:44:38.366  4711  4782 I AiAiEcho: #remoteViewsTwiddler: feature disabled.
+09-26 12:44:38.378  4711  4782 I AiAiEcho: #postPredictionTargets: Sending updates to UISurface home with targets# 0 (types=[])
+09-26 12:44:38.415   641 17757 W android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+09-26 12:44:38.415   641 17757 E android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+09-26 12:44:38.415   641 17757 D android.hardware.audio@7.1-impl.ranchu: consumeThread: exiting
+09-26 12:44:38.416   641  7136 D android.hardware.audio@7.1-impl.ranchu: ~TinyalsaSink: stopping PCM stream
+09-26 12:44:38.569 17638 17703 D UiDevice: Waiting 5000ms for SearchCondition[hasObject=BySelector [PKG='\Qcom.android.settings\E']].
+09-26 12:44:38.569 17638 17703 D UiDevice: Searching for node with selector: BySelector [PKG='\Qcom.android.settings\E'].
+09-26 12:44:38.856  4192  4192 D ActivityAllAppsContainerView: rebindAdapters: force: false
+09-26 12:44:38.856  4192  4192 D ActivityAllAppsContainerView: rebindAdapters: Not needed.
+09-26 12:44:38.870  4192  4192 I Choreographer: Skipped 50 frames!  The application may be doing too much work on its main thread.
+09-26 12:44:38.874  4192  4192 I NotificationListener: Handling notification state refresh for com.android.systemui#0
+09-26 12:44:38.885  4192  4192 D SsBaseTemplateCard: No text view can be set up
+09-26 12:44:38.885  4192  4192 D SsBaseTemplateCard: Passed-in item info is null
+09-26 12:44:38.886  4192  4192 D SsBaseTemplateCard: Passed-in item info is null
+09-26 12:44:38.886  4192  4192 D SsBaseTemplateCard: Passed-in item info is null
+09-26 12:44:38.886  4192  4192 I SsBaseTemplateCard: Secondary card pane is null
+09-26 12:44:38.941  7274  7274 I MenuSettingsDataSource: (REDACTED) Loaded %s settings items (took %d ms).
+09-26 12:44:38.978  4192  4192 D StateManager: createAtomicAnimation - fromState: Background, toState: Normal, partial trace:
+09-26 12:44:38.978  4192  4192 D StateManager: 	at com.android.quickstep.util.WorkspaceRevealAnim.prepareToAnimate(go/retraceme 72a59688580715d19f0e415c69e80376c2f062d1648c80db6730905005a27c20:22)
+09-26 12:44:38.978  4192  4192 D StateManager: 	at com.android.quickstep.util.WorkspaceRevealAnim.<init>(go/retraceme 72a59688580715d19f0e415c69e80376c2f062d1648c80db6730905005a27c20:11)
+09-26 12:44:38.978  4192  4192 D StateManager: 	at com.android.launcher3.QuickstepTransitionManager.createWallpaperOpenAnimations(go/retraceme 72a59688580715d19f0e415c69e80376c2f062d1648c80db6730905005a27c20:339)
+09-26 12:44:38.986  4192  4192 D b/311077782: LauncherAnimationRunner.setAnimation
+09-26 12:44:38.987  7274  7274 I SettingsTabOrderRule: (REDACTED) Loaded %s settings tabs ordering rules (took %d ms).
+09-26 12:44:39.014  7274  7274 I Choreographer: Skipped 123 frames!  The application may be doing too much work on its main thread.
+09-26 12:44:39.302  4192  4284 I HWUI    : Davey! duration=769ms; Flags=1, FrameTimelineVsyncId=250398, IntendedVsync=15686220854024, Vsync=15686220854024, InputEventId=0, HandleInputStart=15686224304400, AnimationStart=15686224326700, PerformTraversalsStart=15686225572800, DrawStart=15686753246300, FrameDeadline=15686237520690, FrameStartTime=15686224290500, FrameInterval=16666666, WorkloadTarget=16666666, SyncQueued=15686766627600, SyncStart=15686918642100, IssueDrawCommandsStart=15686918980500, SwapBuffers=15686920415900, FrameCompleted=15687142176700, DequeueBufferDuration=46800, QueueBufferDuration=319300, GpuCompleted=15687142176700, SwapBuffersCompleted=15687060195500, DisplayPresentTime=0, CommandSubmissionCompleted=15686920415900,
+09-26 12:44:39.574   706   723 I BpBinder: onLastStrongRef automatically unlinking death recipients:
+09-26 12:44:39.674  7274 13279 I HWUI    : Davey! duration=2235ms; Flags=0, FrameTimelineVsyncId=250083, IntendedVsync=15684937520742, Vsync=15685120854068, InputEventId=0, HandleInputStart=15685127105400, AnimationStart=15685127129800, PerformTraversalsStart=15685130993100, DrawStart=15685134187400, FrameDeadline=15685170854066, FrameStartTime=15685126250100, FrameInterval=16666666, WorkloadTarget=16666666, SyncQueued=15685138048500, SyncStart=15685145628300, IssueDrawCommandsStart=15685145875000, SwapBuffers=15687010556800, FrameCompleted=15687180357200, DequeueBufferDuration=33800, QueueBufferDuration=308400, GpuCompleted=15687180357200, SwapBuffersCompleted=15687142199100, DisplayPresentTime=0, CommandSubmissionCompleted=15687010556800,
+09-26 12:44:39.680  4192  4192 I Choreographer: Skipped 33 frames!  The application may be doing too much work on its main thread.
+09-26 12:44:39.684  7274  7274 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.googlesettings.REQUEST_GOOGLE_SETTINGS_ITEMS dat=chimera-action:/... xflg=0x4 cmp=com.google.android.gms/.chimera.UiApiServiceNoInstantApps }
+09-26 12:44:39.684  7274  7274 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.googlesettings.REQUEST_GOOGLE_SETTINGS_ITEMS dat=chimera-action:/... xflg=0x4 cmp=com.google.android.gms/.chimera.UiApiServiceNoInstantApps }
+09-26 12:44:39.686  4192  4192 D WorkspaceRevealAnim: onAnimationEnd: workspace alpha = 1.0
+09-26 12:44:39.696   857   884 I Choreographer: Skipped 47 frames!  The application may be doing too much work on its main thread.
+09-26 12:44:39.763  7274 17758 W GoogleAuthProviderImpl: Account was not set.
+09-26 12:44:39.799  7274 13279 I HWUI    : Davey! duration=798ms; Flags=0, FrameTimelineVsyncId=250189, IntendedVsync=15685137520734, Vsync=15685154187400, InputEventId=0, HandleInputStart=15685167549800, AnimationStart=15685167574400, PerformTraversalsStart=15685175136400, DrawStart=15685186559800, FrameDeadline=15687204187318, FrameStartTime=15685167533600, FrameInterval=16666666, WorkloadTarget=16666666, SyncQueued=15685187539900, SyncStart=15687142443100, IssueDrawCommandsStart=15687142788100, SwapBuffers=15687824219100, FrameCompleted=15687891407400, DequeueBufferDuration=25532300, QueueBufferDuration=739200, GpuCompleted=15687885889600, SwapBuffersCompleted=15687891407400, DisplayPresentTime=0, CommandSubmissionCompleted=15687824219100,
+09-26 12:44:39.800   857  1055 I ImeTracker: com.google.android.apps.nexuslauncher:67a352cc: onRequestHide at ORIGIN_SERVER reason HIDE_UNSPECIFIED_WINDOW fromUser false
+09-26 12:44:39.800  7274  7274 I ContentCaptureHelper: Setting logging level to OFF
+09-26 12:44:39.803  4192  4192 D InsetsController: hide(ime(), fromIme=false)
+09-26 12:44:39.803  4192  4192 I ImeTracker: com.google.android.apps.nexuslauncher:67a352cc: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+09-26 12:44:39.815  7274  7274 I GoogleSettingsChimeraAc: stopped visibility updater [CONTEXT service_id=349 ]
+09-26 12:44:39.817  4386  4386 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2043
+09-26 12:44:39.826   857  1481 I ImeTracker: system_server:c0f8f520: onRequestHide at ORIGIN_SERVER reason IME_REQUESTED_CHANGED_LISTENER fromUser false
+09-26 12:44:39.826  4386  4386 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 0, locked = false
+09-26 12:44:39.835  4386  4386 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1293 onStartInput(EditorInfo{EditorInfo{packageName=com.google.android.apps.nexuslauncher, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+09-26 12:44:39.836  7274  7274 I Choreographer: Skipped 48 frames!  The application may be doing too much work on its main thread.
+09-26 12:44:39.839  4386  4386 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 1, locked = false
+09-26 12:44:39.855   857   883 I ImeTracker: system_server:c0f8f520: onCancelled at PHASE_SERVER_SHOULD_HIDE
+09-26 12:44:39.906  7274  7364 W MenuSettingsDataSource: Unable to create "System Services Updates" item: the utility class returns null Intent. [CONTEXT service_id=349 ]
+09-26 12:44:40.409  4192  4284 I HWUI    : Davey! duration=1029ms; Flags=0, FrameTimelineVsyncId=250620, IntendedVsync=15687337520646, Vsync=15687887520624, InputEventId=0, HandleInputStart=15687897284500, AnimationStart=15687897310300, PerformTraversalsStart=15687898678100, DrawStart=15687898759400, FrameDeadline=15688037520618, FrameStartTime=15687892164200, FrameInterval=16666666, WorkloadTarget=16666666, SyncQueued=15687898825900, SyncStart=15687982453000, IssueDrawCommandsStart=15687983192200, SwapBuffers=15688054416400, FrameCompleted=15688450568100, DequeueBufferDuration=317998400, QueueBufferDuration=527400, GpuCompleted=15688447314200, SwapBuffersCompleted=15688450568100, DisplayPresentTime=0, CommandSubmissionCompleted=15688054416400,
+09-26 12:44:40.482  1410  1410 I Choreographer: Skipped 43 frames!  The application may be doing too much work on its main thread.
+09-26 12:44:40.570  7274  7274 D VRI[GoogleSettingsActivity]: visibilityChanged oldVisibility=true newVisibility=false
+09-26 12:44:40.571  1410  1663 I HWUI    : Davey! duration=728ms; Flags=0, FrameTimelineVsyncId=250650, IntendedVsync=15687920853956, Vsync=15687920853956, InputEventId=0, HandleInputStart=15687922863200, AnimationStart=15687922890300, PerformTraversalsStart=15687923297200, DrawStart=15687923356800, FrameDeadline=15687937520622, FrameStartTime=15687922849800, FrameInterval=16666666, WorkloadTarget=16666666, SyncQueued=15687923564000, SyncStart=15687923701100, IssueDrawCommandsStart=15687924436900, SwapBuffers=15688528143800, FrameCompleted=15688649472800, DequeueBufferDuration=50200, QueueBufferDuration=8866500, GpuCompleted=15688649472800, SwapBuffersCompleted=15688615754600, DisplayPresentTime=0, CommandSubmissionCompleted=15688528143800,
+09-26 12:44:40.763  7274 13279 I HWUI    : Davey! duration=2959ms; Flags=0, FrameTimelineVsyncId=250211, IntendedVsync=15685170854066, Vsync=15687220853984, InputEventId=0, HandleInputStart=15687233018100, AnimationStart=15687233043500, PerformTraversalsStart=15687246296400, DrawStart=15687246350800, FrameDeadline=15687904187290, FrameStartTime=15687225554900, FrameInterval=16666666, WorkloadTarget=16666666, SyncQueued=15687246823100, SyncStart=15687891692500, IssueDrawCommandsStart=15687891858900, SwapBuffers=15688649796100, FrameCompleted=15688775538200, DequeueBufferDuration=37900, QueueBufferDuration=498100, GpuCompleted=15688775538200, SwapBuffersCompleted=15688689053700, DisplayPresentTime=0, CommandSubmissionCompleted=15688649796100,
+09-26 12:44:41.230  4192  4284 I HWUI    : Davey! duration=781ms; Flags=0, FrameTimelineVsyncId=250736, IntendedVsync=15688454187268, Vsync=15688687520592, InputEventId=0, HandleInputStart=15688704604900, AnimationStart=15688704635700, PerformTraversalsStart=15688704996000, DrawStart=15688710228400, FrameDeadline=15689004187246, FrameStartTime=15688702381900, FrameInterval=16666666, WorkloadTarget=16666666, SyncQueued=15688710309600, SyncStart=15688894405600, IssueDrawCommandsStart=15688894554000, SwapBuffers=15688974354000, FrameCompleted=15689419927100, DequeueBufferDuration=268129700, QueueBufferDuration=403000, GpuCompleted=15689234541800, SwapBuffersCompleted=15689419927100, DisplayPresentTime=0, CommandSubmissionCompleted=15688974354000,
+09-26 12:44:41.336  4192  4192 I Choreographer: Skipped 36 frames!  The application may be doing too much work on its main thread.
+09-26 12:44:41.570 17638 17703 D UiDevice: Searching for node with selector: BySelector [PKG='\Qcom.android.settings\E'].
+09-26 12:44:41.578  1410  1663 I HWUI    : Davey! duration=1049ms; Flags=0, FrameTimelineVsyncId=250678, IntendedVsync=15687970853954, Vsync=15688687520592, InputEventId=0, HandleInputStart=15688703590100, AnimationStart=15688703614500, PerformTraversalsStart=15688704047000, DrawStart=15688704114100, FrameDeadline=15689337520566, FrameStartTime=15688693775000, FrameInterval=16666666, WorkloadTarget=16666666, SyncQueued=15688704531500, SyncStart=15689313459600, IssueDrawCommandsStart=15689313550600, SwapBuffers=15689393356700, FrameCompleted=15689629174800, DequeueBufferDuration=129663400, QueueBufferDuration=668500, GpuCompleted=15689628078900, SwapBuffersCompleted=15689629174800, DisplayPresentTime=0, CommandSubmissionCompleted=15689393356700,
+09-26 12:44:41.708 17638 17703 D UiDevice: Searching for node with selector: BySelector [PKG='\Qcom.android.settings\E'].
+09-26 12:44:41.811  7274  7274 I Choreographer: Skipped 118 frames!  The application may be doing too much work on its main thread.
+09-26 12:44:41.823 17638 17703 D UiDevice: Searching for node with selector: BySelector [PKG='\Qcom.android.settings\E'].
+09-26 12:44:41.940 17638 17703 D UiDevice: Searching for node with selector: BySelector [PKG='\Qcom.android.settings\E'].
+09-26 12:44:41.950  7274  7274 I MenuSettingsDataSource: (REDACTED) Loaded %s settings items (took %d ms).
+09-26 12:44:41.957  4711  4711 W AiAiVC  : Unexpected capture event type: 11
+09-26 12:44:41.962  7274  7274 E GmsHatsSurveyCallback: Failed to fetch survey (trigger id: m65QDquay0sevHdnsJP0U7zgNYki, error: NO_AVAILABLE_SURVEY) [CONTEXT service_id=349 ]
+09-26 12:44:42.066  4192  4284 I HWUI    : Davey! duration=995ms; Flags=0, FrameTimelineVsyncId=250797, IntendedVsync=15688937520582, Vsync=15689537520558, InputEventId=0, HandleInputStart=15689548037300, AnimationStart=15689548061900, PerformTraversalsStart=15689548464200, DrawStart=15689548562300, FrameDeadline=15689687520552, FrameStartTime=15689547512600, FrameInterval=16666666, WorkloadTarget=16666666, SyncQueued=15689548600000, SyncStart=15689627584500, IssueDrawCommandsStart=15689627604500, SwapBuffers=15689703018500, FrameCompleted=15690011730800, DequeueBufferDuration=225803300, QueueBufferDuration=296800, GpuCompleted=15689948205500, SwapBuffersCompleted=15690011730800, DisplayPresentTime=0, CommandSubmissionCompleted=15689703018500,
+09-26 12:44:42.070 17638 17703 D UiDevice: Searching for node with selector: BySelector [PKG='\Qcom.android.settings\E'].
+09-26 12:44:42.082  7274 17784 I CAR.DRIVINGMODE: DrivingMode Settings Indexed from the location module
+09-26 12:44:42.115  7274 17783 I MagicTether: [LaunchUtils] No accounts found for enabling Instant Wifi. [CONTEXT service_id=276 ]
+09-26 12:44:42.144  6497  6506 I Multidevice: (REDACTED) [FeatureSettingsApiService] onGetService called from: %s
+09-26 12:44:42.147  7274 17789 I Nearby  : (REDACTED) is blocked device type %s, isAuto=%s, isIot=%s, isLatchsky=%s, isChinaWearable=%s, isTv=%s, isWearable=%s (supportWearOs=%s), isChromeOsDevice=%s (supportChromeOs=%s)
+09-26 12:44:42.148  6497  6506 I Multidevice: [FeatureSettingsApiService] Created API Stub. [CONTEXT service_id=348 ]
+09-26 12:44:42.162  6497 17750 I Multidevice: (REDACTED) [FeatureSettingsApiService] getXdFeatureStatus( %s ): %s
+09-26 12:44:42.178  7274 17788 W SettingsIntentOperation: No accounts
+09-26 12:44:42.207 17638 17703 D UiDevice: Searching for node with selector: BySelector [PKG='\Qcom.android.settings\E'].
+09-26 12:44:42.327 17638 17703 D UiDevice: Searching for node with selector: BySelector [PKG='\Qcom.android.settings\E'].
+09-26 12:44:42.441 17638 17703 D UiDevice: Searching for node with selector: BySelector [PKG='\Qcom.android.settings\E'].
+09-26 12:44:42.573 17638 17703 D UiDevice: Searching for node with selector: BySelector [PKG='\Qcom.android.settings\E'].
+09-26 12:44:42.594  6497  6497 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.trustagent.BridgeApi.START dat=chimera-action:/... xflg=0x4 cmp=com.google.android.gms/.chimera.PersistentInternalApiService }
+09-26 12:44:42.594  6497  6497 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.trustagent.BridgeApi.START dat=chimera-action:/... xflg=0x4 cmp=com.google.android.gms/.chimera.PersistentInternalApiService }
+09-26 12:44:42.607  7274 17787 W PersonalSafety: Debug page in internal setting true, true, false  [CONTEXT service_id=310 ]
+09-26 12:44:42.608  7274 17787 I PersonalSafety: (REDACTED) Displaying Google Setting item %b, %b, %b
+09-26 12:44:42.622  6497  6497 D BoundBrokerSvc: onRebind: Intent { act=com.google.android.gms.auth.aang.events.services.START dat=chimera-action:/... xflg=0x4 cmp=com.google.android.gms/.chimera.PersistentApiService }
+09-26 12:44:42.679  7274  7274 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.googlesettings.REQUEST_GOOGLE_SETTINGS_ITEMS dat=chimera-action:/... xflg=0x4 cmp=com.google.android.gms/.chimera.UiApiServiceNoInstantApps }
+09-26 12:44:42.706 17638 17703 D UiDevice: Searching for node with selector: BySelector [PKG='\Qcom.android.settings\E'].
+09-26 12:44:42.720  5365  5441 I bbax    : (REDACTED) getHotwordActive::active query: %s, watch: %s, devices connected: %s
+09-26 12:44:42.786  7274  7274 I ModuleSettingsDataSourc: (REDACTED) Loaded %s settings items (took %d ms).
+09-26 12:44:42.837 17638 17703 D UiDevice: Searching for node with selector: BySelector [PKG='\Qcom.android.settings\E'].
+09-26 12:44:42.890   857  1309 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET, states=14
+09-26 12:44:42.891   857  1309 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET6, states=14
+09-26 12:44:42.891   857  1309 D InetDiagMessage: Destroyed live tcp sockets for uids={10144} in 1ms
+09-26 12:44:42.891   857  1309 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET, states=14
+09-26 12:44:42.900   857  1309 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET6, states=14
+09-26 12:44:42.901   857  1309 D InetDiagMessage: Destroyed live tcp sockets for uids={20144} in 11ms
+09-26 12:44:42.965 17638 17703 D UiDevice: Searching for node with selector: BySelector [PKG='\Qcom.android.settings\E'].
+09-26 12:44:43.092 17638 17703 D UiDevice: Searching for node with selector: BySelector [PKG='\Qcom.android.settings\E'].
+09-26 12:44:43.223 17638 17703 D UiDevice: Searching for node with selector: BySelector [PKG='\Qcom.android.settings\E'].
+09-26 12:44:43.364 17638 17703 D UiDevice: Searching for node with selector: BySelector [PKG='\Qcom.android.settings\E'].
+09-26 12:44:43.490 17638 17703 D UiDevice: Searching for node with selector: BySelector [PKG='\Qcom.android.settings\E'].
+09-26 12:44:43.620 17638 17703 D UiDevice: Searching for node with selector: BySelector [PKG='\Qcom.android.settings\E'].
+09-26 12:44:43.659   857  1649 I system_server: AssetManager2(0x7525e0d46078) locale list changing from [] to [en-US]
+09-26 12:44:43.675   857  1649 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@696a4c59 does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+09-26 12:44:43.712   706   722 I BpBinder: onLastStrongRef automatically unlinking death recipients:
+09-26 12:44:43.723  4192  4192 W SplitSelectStateCtor: Missing session instanceIds
+09-26 12:44:43.723  4192  4192 D StatsLog: LAUNCHER_SPLIT_SELECTION_EXIT_INTERRUPTED
+09-26 12:44:43.731  1410  1561 I ndroid.systemui: AssetManager2(0x7525e0c6dd18) locale list changing from [] to [en-US]
+09-26 12:44:43.735 17638 17703 D UiDevice: Waiting 5000ms for SearchCondition[hasObject=BySelector [PKG='\Qru.netology.testing.uiautomator\E']].
+09-26 12:44:43.735 17638 17703 D UiDevice: Searching for node with selector: BySelector [PKG='\Qru.netology.testing.uiautomator\E'].
+09-26 12:44:43.796   742   844 W IPCThreadState: Sending oneway calls to frozen process.
+09-26 12:44:43.807   706   706 I BpBinder: onLastStrongRef automatically unlinking death recipients:
+09-26 12:44:43.858 17638 17638 I ing.uiautomator: AssetManager2(0x7525e0c46c18) locale list changing from [] to [en-US]
+09-26 12:44:43.969 17638 17703 D UiDevice: Searching for node with selector: BySelector [PKG='\Qru.netology.testing.uiautomator\E'].
+09-26 12:44:44.041 17638 17638 D AppCompatDelegate: Checking for metadata for AppLocalesMetadataHolderService : Service not found
+09-26 12:44:44.043 17638 17638 I ing.uiautomator: AssetManager2(0x7525e0c462b8) locale list changing from [] to [en-US]
+09-26 12:44:44.064 17638 17638 E ashmem  : Pinning is deprecated since Android Q. Please use trim or other methods.
+09-26 12:44:44.067 17638 17638 D LifecycleMonitor: Lifecycle status change: ru.netology.testing.uiautomator.MainActivity@7665b27 in: PRE_ON_CREATE
+09-26 12:44:44.123 17638 17703 D UiDevice: Searching for node with selector: BySelector [PKG='\Qru.netology.testing.uiautomator\E'].
+09-26 12:44:44.374 17638 17638 E ing.uiautomator: Invalid resource ID 0x00000000.
+09-26 12:44:44.455 17638 17791 I EGL_emulation: Opening libGLESv1_CM_emulation.so
+09-26 12:44:44.466 17638 17791 I EGL_emulation: Opening libGLESv2_emulation.so
+09-26 12:44:44.599  1588  1896 D SatelliteController: iisInCarrierRoamingNbIotNtn: satellite is disabled
+09-26 12:44:44.638 17638 17638 I ing.uiautomator: hiddenapi: Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (runtime_flags=0, domain=platform, api=unsupported) from Landroidx/appcompat/widget/ViewUtils; (domain=app) using reflection: allowed
+09-26 12:44:44.682 17638 17638 W HWUI    : Image decoding logging dropped!
+09-26 12:44:44.692 17638 17791 W HWUI    : Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+09-26 12:44:44.694 17638 17791 W HWUI    : Failed to initialize 101010-2 format, error = EGL_SUCCESS
+09-26 12:44:44.695 17638 17638 W HWUI    : Image decoding logging dropped!
+09-26 12:44:44.701  1410  1561 I Choreographer: Skipped 53 frames!  The application may be doing too much work on its main thread.
+09-26 12:44:44.706 17638 17638 W HWUI    : Image decoding logging dropped!
+09-26 12:44:44.863 17638 17638 D DesktopModeFlags: Toggle override initialized to: OVERRIDE_UNSET
+09-26 12:44:44.951 17638 17638 W HWUI    : Image decoding logging dropped!
+09-26 12:44:44.977 17638 17638 I ing.uiautomator: hiddenapi: Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (runtime_flags=0, domain=platform, api=unsupported) from Landroidx/appcompat/widget/ViewUtils; (domain=app) using reflection: allowed
+09-26 12:44:44.982 17638 17648 I ing.uiautomator: Background young concurrent copying GC freed 1246KB AllocSpace bytes, 3(96KB) LOS objects, 28% free, 2940KB/4138KB, paused 296us,106us total 115.685ms
+09-26 12:44:45.054  4192  4192 D VRI[NexusLauncherActivity]: visibilityChanged oldVisibility=true newVisibility=false
+09-26 12:44:45.061  4192  4192 D NexusLauncherModelDelegate: notifySmartspaceEvent: SmartspaceTargetEvent{mSmartspaceTarget=null, mSmartspaceActionId='null', mEventType=7}
+09-26 12:44:45.079 17638 17638 D LifecycleMonitor: Lifecycle status change: ru.netology.testing.uiautomator.MainActivity@7665b27 in: CREATED
+09-26 12:44:45.081 17638 17638 D LifecycleMonitor: Lifecycle status change: ru.netology.testing.uiautomator.MainActivity@7665b27 in: STARTED
+09-26 12:44:45.083 17638 17638 D LifecycleMonitor: Lifecycle status change: ru.netology.testing.uiautomator.MainActivity@7665b27 in: RESUMED
+09-26 12:44:45.160 17638 17638 W HWUI    : Unknown dataspace 0
+09-26 12:44:45.413   706   939 W ServiceManagerCppClient: Permission failure: android.permission.ACCESS_SURFACE_FLINGER from uid=10283 pid=0
+09-26 12:44:45.413   706   939 D PermissionCache: checking android.permission.ACCESS_SURFACE_FLINGER for uid=10283 => denied (452 us)
+09-26 12:44:45.413  4192  4284 I HWUI    : Davey! duration=830ms; Flags=0, FrameTimelineVsyncId=251137, IntendedVsync=15692337520446, Vsync=15692604187102, InputEventId=0, HandleInputStart=15692610418000, AnimationStart=15692610443100, PerformTraversalsStart=15692612718200, DrawStart=15692612806200, FrameDeadline=15692920853756, FrameStartTime=15692609991400, FrameInterval=16666666, WorkloadTarget=16666666, SyncQueued=15692612906200, SyncStart=15692868752400, IssueDrawCommandsStart=15692868926600, SwapBuffers=15693043829600, FrameCompleted=15693423976700, DequeueBufferDuration=26900, QueueBufferDuration=410900, GpuCompleted=15693423976700, SwapBuffersCompleted=15693258023900, DisplayPresentTime=0, CommandSubmissionCompleted=15693043829600,
+09-26 12:44:45.414   706   939 W ServiceManagerCppClient: Permission failure: android.permission.ROTATE_SURFACE_FLINGER from uid=10283 pid=0
+09-26 12:44:45.414   706   722 W ServiceManagerCppClient: Permission failure: android.permission.ROTATE_SURFACE_FLINGER from uid=10283 pid=17638
+09-26 12:44:45.414   706   939 D PermissionCache: checking android.permission.ROTATE_SURFACE_FLINGER for uid=10283 => denied (918 us)
+09-26 12:44:45.414   706   722 D PermissionCache: checking android.permission.ROTATE_SURFACE_FLINGER for uid=10283 => denied (842 us)
+09-26 12:44:45.415   706   722 W ServiceManagerCppClient: Permission failure: android.permission.INTERNAL_SYSTEM_WINDOW from uid=10283 pid=17638
+09-26 12:44:45.415   706   722 D PermissionCache: checking android.permission.INTERNAL_SYSTEM_WINDOW for uid=10283 => denied (445 us)
+09-26 12:44:45.415   706   939 W ServiceManagerCppClient: Permission failure: android.permission.INTERNAL_SYSTEM_WINDOW from uid=10283 pid=0
+09-26 12:44:45.415   706   939 D PermissionCache: checking android.permission.INTERNAL_SYSTEM_WINDOW for uid=10283 => denied (784 us)
+09-26 12:44:45.893 17638 17703 D UiDevice: Searching for node with selector: BySelector [PKG='\Qru.netology.testing.uiautomator\E'].
+09-26 12:44:46.506 17638 17799 E SurfaceSyncGroup: Failed to receive transaction ready in 1000ms. Marking SurfaceSyncGroup(wmsSync-VRI[MainActivity]#0) as ready
+09-26 12:44:46.536   857  1483 W ServiceManagerCppClient: Permission failure: android.permission.ACCESS_SURFACE_FLINGER from uid=10283 pid=0
+09-26 12:44:46.536   857  1483 D PermissionCache: checking android.permission.ACCESS_SURFACE_FLINGER for uid=10283 => denied (170 us)
+09-26 12:44:46.536   857  1483 W ServiceManagerCppClient: Permission failure: android.permission.ROTATE_SURFACE_FLINGER from uid=10283 pid=0
+09-26 12:44:46.536   857  1483 D PermissionCache: checking android.permission.ROTATE_SURFACE_FLINGER for uid=10283 => denied (106 us)
+09-26 12:44:46.536   857  1483 W ServiceManagerCppClient: Permission failure: android.permission.INTERNAL_SYSTEM_WINDOW from uid=10283 pid=0
+09-26 12:44:46.536   857  1483 D PermissionCache: checking android.permission.INTERNAL_SYSTEM_WINDOW for uid=10283 => denied (79 us)
+09-26 12:44:46.541 17638 17799 E SurfaceSyncGroup: Failed to receive transaction ready in 1000ms. Marking SurfaceSyncGroup(VRI[MainActivity]#1) as ready
+09-26 12:44:46.595   857   880 I ActivityTaskManager: Displayed ru.netology.testing.uiautomator/.MainActivity for user 0: +2s921ms
+09-26 12:44:46.787  1410  1663 I HWUI    : Davey! duration=891ms; Flags=0, FrameTimelineVsyncId=251370, IntendedVsync=15693470853734, Vsync=15693537520398, InputEventId=0, HandleInputStart=15693544415400, AnimationStart=15693544437300, PerformTraversalsStart=15693544470100, DrawStart=15693544520500, FrameDeadline=15693654187060, FrameStartTime=15693544402500, FrameInterval=16666666, WorkloadTarget=16666666, SyncQueued=15693544595500, SyncStart=15693981644300, IssueDrawCommandsStart=15693981819000, SwapBuffers=15694054632400, FrameCompleted=15694799274200, DequeueBufferDuration=29500, QueueBufferDuration=1573700, GpuCompleted=15694799274200, SwapBuffersCompleted=15694251538600, DisplayPresentTime=0, CommandSubmissionCompleted=15694054632400,
+09-26 12:44:47.020   742   844 W IPCThreadState: Sending oneway calls to frozen process.
+09-26 12:44:47.452  1410  1561 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=android.view.ViewRootImpl$$ExternalSyntheticLambda13@3668267
+09-26 12:44:47.488  4192  4192 D BaseDepthController: setSurface:
+09-26 12:44:47.488  4192  4192 D BaseDepthController: 	mWaitingOnSurfaceValidity: false
+09-26 12:44:47.488  4192  4192 D BaseDepthController: 	mBaseSurface: null
+09-26 12:44:47.488  4192  4192 D BaseDepthController: mSurface is null and mCurrentBlur is: 0
+09-26 12:44:47.490  4192  4192 D StateManager: goToState - fromState: Normal, toState: Normal, partial trace:
+09-26 12:44:47.490  4192  4192 D StateManager: 	at com.android.launcher3.statemanager.StateManager.moveToRestState(go/retraceme 72a59688580715d19f0e415c69e80376c2f062d1648c80db6730905005a27c20:4)
+09-26 12:44:47.490  4192  4192 D StateManager: 	at com.android.launcher3.statemanager.StateManager.moveToRestState(go/retraceme 72a59688580715d19f0e415c69e80376c2f062d1648c80db6730905005a27c20:1)
+09-26 12:44:47.490  4192  4192 D StateManager: 	at com.android.launcher3.statemanager.StatefulActivity.onStop(go/retraceme 72a59688580715d19f0e415c69e80376c2f062d1648c80db6730905005a27c20:34)
+09-26 12:44:47.490  4192  4192 D StatsLog: LAUNCHER_ONSTOP
+09-26 12:44:47.491  4192  4192 D StatsLog: LAUNCHER_GOOGLE_SEARCH_RESTORE_LIST_SIZE_AFTER_ACTIVITY_RESTART
+09-26 12:44:47.504   857  3264 W IPCThreadState: Sending oneway calls to frozen process.
+09-26 12:44:47.504   857  3264 W IPCThreadState: Sending oneway calls to frozen process.
+09-26 12:44:47.505   857  3264 W IPCThreadState: Sending oneway calls to frozen process.
+09-26 12:44:47.506   857  3264 W IPCThreadState: Sending oneway calls to frozen process.
+09-26 12:44:47.506   857  3264 W IPCThreadState: Sending oneway calls to frozen process.
+09-26 12:44:47.506   857  3264 W IPCThreadState: Sending oneway calls to frozen process.
+09-26 12:44:47.506   857  3264 W IPCThreadState: Sending oneway calls to frozen process.
+09-26 12:44:47.506   857  3264 W IPCThreadState: Sending oneway calls to frozen process.
+09-26 12:44:47.506   857  3264 W IPCThreadState: Sending oneway calls to frozen process.
+09-26 12:44:47.506   857  3264 W IPCThreadState: Sending oneway calls to frozen process.
+09-26 12:44:47.506   857  3264 W IPCThreadState: Sending oneway calls to frozen process.
+09-26 12:44:47.506   857  3264 W IPCThreadState: Sending oneway calls to frozen process.
+09-26 12:44:47.507   857  3264 W IPCThreadState: Sending oneway calls to frozen process.
+09-26 12:44:47.507   857  3264 W IPCThreadState: Sending oneway calls to frozen process.
+09-26 12:44:47.507   857  3264 W IPCThreadState: Sending oneway calls to frozen process.
+09-26 12:44:47.507   857  3264 W IPCThreadState: Sending oneway calls to frozen process.
+09-26 12:44:47.507   857  3264 W IPCThreadState: Sending oneway calls to frozen process.
+09-26 12:44:47.507   857  3264 W IPCThreadState: Sending oneway calls to frozen process.
+09-26 12:44:47.507   857  3264 W IPCThreadState: Sending oneway calls to frozen process.
+09-26 12:44:47.508   857  3264 W IPCThreadState: Sending oneway calls to frozen process.
+09-26 12:44:47.508   857  3264 W IPCThreadState: Sending oneway calls to frozen process.
+09-26 12:44:47.508   857  3264 W IPCThreadState: Sending oneway calls to frozen process.
+09-26 12:44:47.508   857  3264 W IPCThreadState: Sending oneway calls to frozen process.
+09-26 12:44:47.508   857  3264 W IPCThreadState: Sending oneway calls to frozen process.
+09-26 12:44:47.508   857  3264 W IPCThreadState: Sending oneway calls to frozen process.
+09-26 12:44:47.508   857  3264 W IPCThreadState: Sending oneway calls to frozen process.
+09-26 12:44:47.508   857  3264 W IPCThreadState: Sending oneway calls to frozen process.
+09-26 12:44:47.508   857  3264 W IPCThreadState: Sending oneway calls to frozen process.
+09-26 12:44:47.509   857  3264 W IPCThreadState: Sending oneway calls to frozen process.
+09-26 12:44:47.509   857  3264 W IPCThreadState: Sending oneway calls to frozen process.
+09-26 12:44:47.509   857  3264 W IPCThreadState: Sending oneway calls to frozen process.
+09-26 12:44:47.509   857  3264 W IPCThreadState: Sending oneway calls to frozen process.
+09-26 12:44:47.509   857  3264 W IPCThreadState: Sending oneway calls to frozen process.
+09-26 12:44:47.509   857  3264 W IPCThreadState: Sending oneway calls to frozen process.
+09-26 12:44:47.509   857  3264 W IPCThreadState: Sending oneway calls to frozen process.
+09-26 12:44:47.509   857  3264 W IPCThreadState: Sending oneway calls to frozen process.
+09-26 12:44:47.510   857  3264 W IPCThreadState: Sending oneway calls to frozen process.
+09-26 12:44:47.510   857  3264 W IPCThreadState: Sending oneway calls to frozen process.
+09-26 12:44:47.513   857  3264 W IPCThreadState: Sending oneway calls to frozen process.
+09-26 12:44:47.514   857  3264 W IPCThreadState: Sending oneway calls to frozen process.
+09-26 12:44:47.515   857  3264 W IPCThreadState: Sending oneway calls to frozen process.
+09-26 12:44:47.599  4192  4205 W System  : A resource failed to call release.
+09-26 12:44:47.599  4192  4205 W System  : A resource failed to call release.
+09-26 12:44:47.599  4192  4205 W System  : A resource failed to call release.
+09-26 12:44:48.466 17638 17638 I Choreographer: Skipped 186 frames!  The application may be doing too much work on its main thread.
+09-26 12:44:48.503   857  1055 I ImeTracker: ru.netology.testing.uiautomator:60422fd8: onRequestHide at ORIGIN_SERVER reason HIDE_UNSPECIFIED_WINDOW fromUser false
+09-26 12:44:48.527  6497  6506 I FontLog : (REDACTED) Received query %s, URI %s
+09-26 12:44:48.527  6497  6506 I FontLog : (REDACTED) Query [%s] resolved to %s
+09-26 12:44:48.540  4386  4386 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2043
+09-26 12:44:48.547   857  3043 I ImeTracker: system_server:e6516800: onRequestHide at ORIGIN_SERVER reason IME_REQUESTED_CHANGED_LISTENER fromUser false
+09-26 12:44:48.550   857   883 I ImeTracker: system_server:e6516800: onCancelled at PHASE_SERVER_SHOULD_HIDE
+09-26 12:44:48.552  6497  6506 I FontLog : (REDACTED) Fetch %s end status %s
+09-26 12:44:48.558  4386  4386 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 0, locked = false
+09-26 12:44:48.596  4386  4386 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1293 onStartInput(EditorInfo{EditorInfo{packageName=ru.netology.testing.uiautomator, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+09-26 12:44:48.601  4386  4386 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 1, locked = false
+09-26 12:44:48.625 17638 17703 D UiDevice: Retrieving node with selector: BySelector [RES='\Qru.netology.testing.uiautomator:id/userInput\E'].
+09-26 12:44:48.629  6497  6506 I FontLog : (REDACTED) Pulling font file for id = %d, cache size = %d
+09-26 12:44:48.664  6497  6506 I FontLog : (REDACTED) Pulling font file for id = %d, cache size = %d
+09-26 12:44:48.673 17638 17674 I HWUI    : Davey! duration=2952ms; Flags=1, FrameTimelineVsyncId=251377, IntendedVsync=15693554187064, Vsync=15693554187064, InputEventId=0, HandleInputStart=15693561175000, AnimationStart=15693561435600, PerformTraversalsStart=15693561623700, DrawStart=15694255469600, FrameDeadline=15693570853730, FrameStartTime=15693561107300, FrameInterval=16666666, WorkloadTarget=16666666, SyncQueued=15694265514100, SyncStart=15694482489600, IssueDrawCommandsStart=15694486531800, SwapBuffers=15696634036500, FrameCompleted=15696723554500, DequeueBufferDuration=32700, QueueBufferDuration=329700, GpuCompleted=15696723554500, SwapBuffersCompleted=15696638996900, DisplayPresentTime=0, CommandSubmissionCompleted=15696634036500,
+09-26 12:44:48.830 17638 17673 I HWUI    : Davey! duration=3310ms; Flags=0, FrameTimelineVsyncId=251384, IntendedVsync=15693570853730, Vsync=15696670853606, InputEventId=0, HandleInputStart=15696679219000, AnimationStart=15696679266200, PerformTraversalsStart=15696682631600, DrawStart=15696686372500, FrameDeadline=15696754186936, FrameStartTime=15696677428000, FrameInterval=16666666, WorkloadTarget=16666666, SyncQueued=15696688579500, SyncStart=15696688999300, IssueDrawCommandsStart=15696689111300, SwapBuffers=15696690335300, FrameCompleted=15696881760000, DequeueBufferDuration=32800, QueueBufferDuration=22036300, GpuCompleted=15696881760000, SwapBuffersCompleted=15696754604900, DisplayPresentTime=0, CommandSubmissionCompleted=15696690335300,
+09-26 12:44:48.868 17638 17638 D InsetsController: hide(ime(), fromIme=false)
+09-26 12:44:48.870 17638 17638 I ImeTracker: ru.netology.testing.uiautomator:60422fd8: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+09-26 12:44:49.162 17638 17648 I ing.uiautomator: Background concurrent copying GC freed 883KB AllocSpace bytes, 1(32KB) LOS objects, 49% free, 3365KB/6731KB, paused 232us,251us total 363.047ms
+09-26 12:44:49.287 17638 17703 I ing.uiautomator: hiddenapi: Accessing hidden method Landroid/view/MotionEvent;->setDisplayId(I)V (runtime_flags=0, domain=platform, api=blocked,test-api) from Landroidx/test/uiautomator/GestureController; (domain=app) using reflection: allowed
+09-26 12:44:49.289 17638 17703 I ing.uiautomator: AssetManager2(0x7525e0c41ad8) locale list changing from [] to [en-US]
+09-26 12:44:49.293 17638 17703 I ing.uiautomator: AssetManager2(0x7525e0c47ed8) locale list changing from [] to [en-US]
+09-26 12:44:49.303 17638 17703 D UiObject2: Setting text to '   '.
+09-26 12:44:49.429  4386  4386 W AndroidSpellCheckerService: AndroidSpellCheckerService.initialize():73 initialize...
+09-26 12:44:49.438  4386  4386 I ShortcutsDataManager: ShortcutsDataManager.onContentChanged():72 onContentChanged()
+09-26 12:44:49.439  4386  4386 I ContactsDataManager: ContactsDataManager.onContentChanged():153 onContentChanged()
+09-26 12:44:49.454  4386  4386 W AndroidSpellCheckerService: AndroidSpellCheckerService.initialize():83 initialize...done
+09-26 12:44:49.476  4386  5315 I AndroidSpellCheckerService: AndroidSpellCheckerService.createSession():139 com.google.android.keyboard.client.delight5.LanguageIdentifier@c2d7140 is created
+09-26 12:44:49.554 17638 17703 D UiDevice: Retrieving node with selector: BySelector [RES='\Qru.netology.testing.uiautomator:id/buttonChange\E'].
+09-26 12:44:49.969 17638 17647 I ing.uiautomator: Compiler allocated 5057KB to compile void android.view.ViewRootImpl.performTraversals()
+09-26 12:44:50.050 17638 17703 D UiObject2: Clicking on (539, 679).
+09-26 12:44:50.060 17638 17703 D CompatChangeReporter: Compat change id reported: 289878283; UID 10283; state: ENABLED
+09-26 12:44:50.457 17638 17703 W GestureController: Gestures took longer than expected (396ms >> 16ms), device might be in a busy state.
+09-26 12:44:50.457 17638 17703 D UiDevice: Retrieving node with selector: BySelector [RES='\Qru.netology.testing.uiautomator:id/userInput\E'].
+09-26 12:44:50.639   857  1481 W AS.PlaybackActivityMon: No piid assigned for invalid/internal port id 15
+09-26 12:44:50.686   701   802 D AudioFlinger: mixer(0x7c1ef369f770) throttle end: throttle time(26)
+09-26 12:44:50.979   641 17804 W android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+09-26 12:44:50.979   641 17804 E android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+09-26 12:44:51.086   641 17804 W android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+09-26 12:44:51.086   641 17804 E android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+09-26 12:44:51.193   641 17804 W android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+09-26 12:44:51.202   641 17804 E android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+09-26 12:44:51.262 17638 17703 I TestRunner: finished: testEmptyTextExactEmpty(ru.netology.testing.uiautomator.ChangeTextTest)
